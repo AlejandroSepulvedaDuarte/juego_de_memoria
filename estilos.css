@@ -1,0 +1,8 @@
+.imgTamano {
+  width: 150px;
+  height: 150px;
+}
+
+.desactivada {
+  pointer-events: none;
+}
